@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5d318de7abcdc8f45a1d4f77064854f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MapSprite2: {fileID: 7574958832732721829, guid: b5d1eb34fee9d7543ae747eacbb8a1e6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
